@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "afjcity.exaroton.me",
-    "port": 50791,
+    "ip": "afjsurvivalmcsmp.falix.gg",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },

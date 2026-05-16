@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "in4-1.shulker.in",
-    "port": 5375,
+    "port": 21854,
     "version": "1.20.1",
     "try-creative": false
   },
